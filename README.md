@@ -15,7 +15,7 @@ Para iniciar, você deve clonar o repositório do projeto na sua máquina e inst
 
 ```shell
 git clone https://github.com/viniciusmtsantos/react-pass-in.git
-cd vue-management-dashboard
+cd react-pass-in
 ```
 
 ### Instalando as Dependências (via Windows):
